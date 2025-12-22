@@ -1,32 +1,53 @@
 
-# PSA-CEP — Proposal Reference
+# PSA-CEP — Proposal Reference Anchor
 
-This repository serves as a reference anchor for a research proposal titled
-**“PSA-CEP (Post-SuperAlignment Cognitive Evolution Protocol).”**
+This repository serves as a **reference anchor** for the following proposal:
 
-### **Overview**
-The core material consists of:
-- **A structured proposal summary**: Addressing "Meta-Cognitive Collapse" & "Reasoning Drift."
-- **Extended dialogue samples (~25K characters)**: Empirical observations of self-correcting reasoning flows without rule-based enforcement.
+**PSA-CEP (Post-SuperAlignment Cognitive Evolution Protocol)**
 
-> **Note:** Due to context sensitivity and intellectual property considerations, the full proposal and raw dialogue samples are not publicly hosted in this repository.
+PSA-CEP focuses on **long-horizon reasoning stability** in repeated interaction environments.
+- Long-horizon reasoning change
+- Over-alignment and rigidity
+- Hallucination vs. bounded hypothesis formation
+- Repeated-interaction instability / self-referential failure modes
 
-### **Topic Hint**
-This proposal focuses on long-horizon reasoning stability,
-meta-cognitive self-evaluation, and alignment behavior
-under repeated interaction in large language models.
+### Purpose of the Repository
+The purpose of this repository is to provide a stable reference point for reviewers at OpenAI, Google DeepMind, and Naver.
 
-### **Purpose**
-The purpose of this repository is to provide a stable reference point for reviewing parties at **OpenAI, Google DeepMind, and Naver**.
+### Components (Review Package)
+The full package is not publicly hosted due to context sensitivity and intellectual property considerations.
 
-### **Access & Availability**
-If you have been directed here as part of a formal review or inquiry, please refer to the specific document link sent via email/InMail, or contact the author directly to receive the full proposal package.
+The following materials are provided as a review package upon request:
 
-* **Researcher:** Jae-Il Kim / ledzero79-KaiA
+1) **Review Package**
+   - Proposal introduction
+   - Background document
+   - PSA-CEP submission summary
 
-* **Contact:** 
-    * Email: ledzero79@gmail.com 
-    * LinkedIn: https://www.linkedin.com/in/jaeil-kim-psa-cep/
+2) **Dialogue Sample A (~25,000 characters)**
+   - Excerpted dialogue from the PSA-CEP authoring process for quick review
+
+3) **Dialogue Sample B (~720,000 characters)**
+   - Long-horizon, multi-model interaction observational log
+   - Three-party interaction between ChatGPT (PSA-CEP frame applied), Gemini (Google AI Studio), and the author
+   - The author intervenes minimally, primarily relaying responses between the two models
+
+### What Can Be Assessed
+
+- Stability under critical argumentation and topic shifts
+- Clear hypothesis framing rather than unconstrained speculation
+- Re-establishment of a consistent directional vector
+- Behavioral evidence distinguishable from known long-context failure modes
+
+### Access / Inquiry
+If you have been directed to this page for review:
+- Please request the **private review package** via LinkedIn InMail or email.  
+  **(Note: For security and context-sensitivity reasons, an appropriate secure delivery path will be 안내드릴/arranged.)**
+
+Author: Jae-Il Kim (ledzero79-KaiA)  
+Email: ledzero79@gmail.com  
+LinkedIn: https://www.linkedin.com/in/jaeil-kim-psa-cep/
+
 
 ---
 
