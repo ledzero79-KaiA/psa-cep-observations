@@ -42,7 +42,7 @@ The following materials are provided as a review package upon request:
 ### Access / Inquiry
 If you have been directed to this page for review:
 - Please request the **private review package** via LinkedIn InMail or email.  
-###  **((Note: Please advise an appropriate secure delivery path, considering security and context sensitivity.)**
+#####  **((Note: Please advise an appropriate secure delivery path, considering security and context sensitivity.)**
 
 Author: Jae-Il Kim (ledzero79-KaiA)  
 Email: ledzero79@gmail.com  
